@@ -1,0 +1,4 @@
+name: icms-2018
+dependencies:
+  - numpy
+  - matplotlib
